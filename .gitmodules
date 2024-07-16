@@ -1,0 +1,12 @@
+[submodule "Walnut/vendor/glm"]
+	path = Walnut/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "Walnut/vendor/imgui"]
+	path = Walnut/vendor/imgui
+	url = https://github.com/kurbyrr/imgui
+[submodule "Walnut/vendor/glfw"]
+	path = Walnut/vendor/glfw
+	url = https://github.com/glfw/glfw
+[submodule "WalnutApp/cpp-httplib"]
+	path = WalnutApp/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib

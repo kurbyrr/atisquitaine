@@ -1,0 +1,20 @@
+# Directories
+.vs/
+.cache
+.vscode/
+bin/
+bin-int/
+build
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+
+# Exclude
+!vendor/bin
+
+# Cmake
+compile_commands.json
+metar.json
